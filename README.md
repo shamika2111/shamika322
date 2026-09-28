@@ -177,26 +177,8 @@ An Amazon-inspired frontend project created to practice webpage structure, layou
 
 **Tech:** HTML • CSS
 
-**What I practiced:**
+🔗 [View Repository](https://github.com/shamika2111/amazon-clone-project)
 
-* HTML structure
-* CSS layouts
-* Responsive design concepts
-* Frontend development
-
-🔗 [View Repository](YOUR-AMAZON-REPO-LINK)
-
----
-
-### 🎮 Tic Tac Toe
-
-A browser-based game built to practice JavaScript logic and user interactions.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Repository](YOUR-TIC-TAC-TOE-REPO-LINK)
-
----
 
 ### ✊ Rock Paper Scissors
 
@@ -204,17 +186,34 @@ An interactive browser game built using JavaScript.
 
 **Tech:** HTML • CSS • JavaScript
 
-🔗 [View Repository](YOUR-ROCK-PAPER-SCISSORS-REPO-LINK)
+🔗 [View Repository](https://github.com/shamika2111/Rock-Paper-Scissors-game)
 
----
+
+### 🎮 Tic Tac Toe
+
+A browser-based game built to practice JavaScript logic and user interactions.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/shamika2111/tic-tac-toe-game)
+
 
 ### 📊 Power BI Data Analysis
 
-A data visualization project created to explore and present insights using Power BI.
+A data visualization project created using Power BI.
 
 **Tech:** Power BI • Data Analysis • Data Visualization
 
-🔗 [View Repository](YOUR-POWER-BI-REPO-LINK)
+🔗 [View Repository](https://github.com/shamika2111/power-bi-project)
+
+
+### 🧮 Calculator
+
+A simple calculator project built to practice frontend development and JavaScript logic.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/shamika2111/calculator)
 
 ## 🧠 DSA & Problem Solving
 
